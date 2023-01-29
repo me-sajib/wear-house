@@ -1,0 +1,11 @@
+.card {
+  background-color: #222 !important;
+}
+.card img {
+  height: 300px;
+}
+p.card-text {
+  border-bottom: 1px solid #625b5b;
+  margin: 0px;
+  padding: 10px 0;
+}

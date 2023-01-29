@@ -1,0 +1,25 @@
+.team-text {
+  font-size: 60px;
+}
+.team-img {
+  height: 500px;
+}
+.name {
+  color: #ff9b1c;
+  font-weight: 700;
+  font-size: 38px;
+  letter-spacing: -1px;
+  line-height: 1.605263157894737em;
+}
+.position {
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  line-height: 1.59375em;
+}
+.details {
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 2em;
+}
